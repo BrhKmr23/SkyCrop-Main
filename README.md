@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Kharif Knights is a smart farming solution designed to empower farmers with data-driven insights and intelligent tools for optimizing crop health, managing resources, and improving yields. It provides real-time crop monitoring, pest and disease detection, and an AI-powered farm management assistant.
+SkyCrop is a smart and convinient farming solution designed to empower farmers with data-driven insights and intelligent tools for optimizing crop health, managing resources, and improving yields. It provides real-time crop monitoring, Pest and disease detection, and an AI-powered farm management assistant.
 
 ## Features
 
-*   **Real-time Crop Monitoring:** Kharif Knights uses advanced image recognition to monitor your crops remotely, providing data-driven insights about crop health, growth stages, and potential risks. ![Features](images/features.png)
+*   **Real-time Crop Monitoring:** SkyCrop uses advanced image recognition to monitor your crops remotely, providing data-driven insights about crop health, growth stages, and potential risks. ![Features](images/features.png)
 *   **Pest Detection:** Identify and classify common pests affecting your crops using our AI-powered pest detection system. Get early warnings and recommended actions to prevent infestations. 
 *   **Disease Prediction:** Detect potential diseases early by analyzing leaf patterns and discoloration. Receive timely alerts and guidance to mitigate disease outbreaks. 
 *   **Farm Management Assistant (AgriCare):** AgriCare is an AI-powered assistant that provides personalized farm management guidance, optimizing resource usage and improving crop yields through intelligent recommendations and monitoring. 
