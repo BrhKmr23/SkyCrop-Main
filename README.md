@@ -31,13 +31,13 @@ Follow these steps to set up the project locally:
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Monish-KS/Kharif-Knights.git
+    git clone https://github.com/BrhKmr23/SkyCrop-Main
     ```
 
 2.  **Navigate to the project directory:**
 
     ```sh
-    cd page-wizard-makes-one
+    cd SkyCrop-Main
     ```
 
 3.  **Install the necessary dependencies:**
@@ -72,7 +72,7 @@ Follow these steps to set up the project locally:
     *   Navigate to the AgriCare page.
     *   Type your question in the input field.
     *   Click the "Send" button to submit your question.
-    *   The AI assistant will provide a response.
+    *   The Llama AI assistant will provide a response.
 
 *   **Viewing Sensor Data on the Dashboard:**
     *   Navigate to the main dashboard page.
