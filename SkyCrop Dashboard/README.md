@@ -1,6 +1,6 @@
 # SkyCrop - Smart Farming Solutions
 
-![logo](images/logo.jpeg)
+![logo](Dashboard.png)
 
 ## Introduction
 
